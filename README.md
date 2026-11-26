@@ -11,6 +11,7 @@ Welcome to my personal portfolio. I am an IT Systems Specialist and Computer Eng
 | Project | Description |
 | --- | --- |
 | Cortex | Windows endpoint diagnostics and reporting utility |
+| Windows First Aid | First-line maintenance and repair utility using built-in Windows tools |
 | CPUWatch | PowerShell-based process and CPU monitoring utility |
 | Video Compressor | Target-size video compression using FFmpeg |
 | Video and Image Compressor | Batch media compression using FFmpeg, ImageMagick, and CaesiumCLT |
