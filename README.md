@@ -17,7 +17,7 @@ Welcome to my personal portfolio. I am an IT Systems Specialist and Computer Eng
 | Video and Image Compressor | Batch media compression using FFmpeg, ImageMagick, and CaesiumCLT |
 | Pumpkin's Spy | Discord integrations for game giveaways, content scanning, Twitch Drops tag estimates, and Ragnarok event reminders |
 | Minutes of Meeting Tool | Incident documentation and meeting minutes utility |
-| Invoice & Timecard Tool | Reusable timecard calculation, calendar date selection, and PNG/PDF invoice export |
+| Invoice & Timecard Tool | Browser and Windows desktop editions with client management, calendar dates, automatic totals, and PNG/PDF export |
 | IT Tools Directory | Organized internal IT resource directory |
 | Homelabs | Oracle Cloud container hosting and a previous Windows home server |
 

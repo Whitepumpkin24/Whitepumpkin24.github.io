@@ -7,7 +7,7 @@ document.querySelectorAll('.filter').forEach(button => {
       item.setAttribute('aria-pressed', String(selected));
     });
     document.querySelectorAll('.card[data-category]').forEach(card => {
-      card.hidden = category !== 'all' && card.dataset.category !== category;
+      card.hidden = category !== 'all' && !card.dataset.category.split(/\s+/).includes(category);
     });
   });
 });
